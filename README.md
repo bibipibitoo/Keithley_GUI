@@ -1,5 +1,5 @@
 # Keithley2400_GUI
-The Keithley_GUI is a Python based user interface designed to perform IV measurements with the Keithley 2400 series Source Measure units (SMU).
+The Keithley_GUI is a Python based user interface designed to perform IV measurements with the Keithley 2400 series Source Measure units (SMU), based upon the existing library [Keithley_GPT](github.com/NREL/Keithley_GPT).
 
 ## About
 
