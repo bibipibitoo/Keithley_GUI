@@ -6,8 +6,7 @@ The Keithley_GUI is a Python based user interface designed to perform IV measure
 ``` python
 from pymeasure.instruments.resources import list_resources
 list_resources()
-``` python
-
+``` 
 The snippet above is the code required to identify all connections to the PC. It requires the package PyMeasure. The output will list all connections like below:
 
 ```
