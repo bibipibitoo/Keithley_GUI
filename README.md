@@ -1,9 +1,11 @@
 # Keithley2400_GUI
 The Keithley_GUI is a Python based user interface designed to perform IV measurements with the Keithley 2400 series Source Measure units (SMU).
 
-## Important Notes
+## About
 
-For the GUI to connect and send data to the SMU, the correct port ID must be stated in the _Resource Name_ input field. If the SMU is connected to a different PC or via a different cable connection, this name must be correctly changed to the corresponding port. That requires running a separate python code to identify the ports and installation of the PyMeasure scientific package. https://pymeasure.readthedocs.io/en/latest/quick_start.html
+## Identifying Instruments
+
+For the GUI to connect and send data to the SMU, the correct port ID must be stated in the _Resource Name_ input field. If the SMU is connected to a different PC or via a different cable connection, this name must be correctly changed to the corresponding port. That requires running a separate python code to identify the ports and installation of the [PyMeasure scientific package](https://pymeasure.readthedocs.io/en/latest/quick_start.html). This functionality may be added in future releases.
 
 Run the code below in a command prompt, IPython terminal, or Jupyter notebook.
 
@@ -22,3 +24,6 @@ Out[1]:
 ```
 
 Input the correct port into the _Resource Name_ field. 
+
+## Documentation
+
