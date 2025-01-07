@@ -26,5 +26,8 @@ Out[1]:
 Input the correct port into the _Resource Name_ field. 
 
 ## Documentation
-## System Requirements
 
+The complete documentation is uploaded under documentation [IV Sweep GUI Documentation](https://github.com/bibipibitoo/Keithley_GUI/blob/main/IV%20Sweep%20GUI%20Documentation.pdf)
+
+## System Requirements
+*Windows 7+
