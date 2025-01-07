@@ -5,7 +5,7 @@ The Keithley_GUI is a Python based user interface designed to perform IV measure
 
 ## Identifying Instruments
 
-For the GUI to connect and send data to the SMU, the correct port ID must be stated in the _Resource Name_ input field. If the SMU is connected to a different PC or via a different cable connection, this name must be correctly changed to the corresponding port. If you don't know the name of the correct port, it requires running a separate python code to identify the ports and installation of the [PyMeasure scientific package](https://pymeasure.readthedocs.io/en/latest/quick_start.html) and the [NI-VISA library](https://pyvisa.readthedocs.io/en/latest/faq/getting_nivisa.html#faq-getting-nivisa). This functionality may be added in future releases.
+For the GUI to connect and send data to the SMU, the correct port ID must be stated in the _Resource Name_ input field. If the SMU is connected to a different PC or via a different cable connection, this name must be correctly changed to the corresponding port. If the correct port is unknown, it requires running a separate python code to identify the ports and installation of the [PyMeasure scientific package](https://pymeasure.readthedocs.io/en/latest/quick_start.html) and the [NI-VISA library](https://pyvisa.readthedocs.io/en/latest/faq/getting_nivisa.html#faq-getting-nivisa). This functionality may be added in future releases.
 
 Run the code below in a command prompt, IPython terminal, or Jupyter notebook.
 
